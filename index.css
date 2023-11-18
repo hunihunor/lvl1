@@ -7,14 +7,14 @@
     margin: auto;
     display: grid;
     grid-template-columns: 1fr 1fr ;
-    max-width: 700px;
+    max-height: 100px;
 }
 
 
 .menu-left{
     margin: auto;
     display: grid;
-    grid-template-columns: repeat(4, auto) ;
+    grid-template-columns: 1fr 1fr 1fr 1fr
 
 }
 
